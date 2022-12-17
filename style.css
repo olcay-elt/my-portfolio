@@ -1,3 +1,29 @@
+h1 {
+    color: #2D033B;
+}
+
 a {
     text-decoration: none !important;
+}
+
+.list-group-item {
+    color: #810CA8 !important;
+    background-color: #eeeaf0 !important;
+    transition: all .3s ease-in-out;
+}
+
+.list-group-item:hover {
+    background-color: #e6d2ee !important;
+}
+
+.link {
+    width: 10%;
+}
+
+.myButton {
+    background-color: #7b5bf0 !important;
+}
+
+.myButton:hover {
+    background-color: #76039c !important;
 }
