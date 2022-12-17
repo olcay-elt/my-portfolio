@@ -13,6 +13,8 @@ a {
 }
 
 .list-group-item:hover {
+    color: #a228ca;
+    font-weight: bold !important;
     background-color: #e6d2ee !important;
 }
 
