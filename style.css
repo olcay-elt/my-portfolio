@@ -1,5 +1,6 @@
 h1 {
     color: #2D033B;
+
 }
 
 a {
@@ -23,7 +24,7 @@ a {
 }
 
 .myButton {
-    background-color: #9074f3!important;
+    background-color: #9074f3 !important;
 }
 
 .myButton:hover {
