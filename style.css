@@ -21,6 +21,7 @@ a {
 
 .link {
     width: 10%;
+    min-width: 50px;
 }
 
 .myButton {
